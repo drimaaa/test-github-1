@@ -17,6 +17,8 @@ public class Caculator {
 		return a * b;
 	}
 
+//this is akward for master branch
+
   private static int minus(int a, int b, Object GPU) {
 		int result = 0;
 		if( GPU == null ) {
