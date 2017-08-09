@@ -17,11 +17,7 @@ public class Caculator {
 		return a * b;
 	}
 
-<<<<<<< .merge_file_a11248
-	//this is akward for division branch as well
-=======
 //this is akward for master branch
->>>>>>> .merge_file_a11004
 
   private static int minus(int a, int b, Object GPU) {
 		int result = 0;
