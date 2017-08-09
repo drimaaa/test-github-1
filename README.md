@@ -1,6 +1,9 @@
 # test-github
 Test Repository
 
+> Github 에서 직접 변경 합니다.  
+> 이것은 pull 테스트 용도 입니다.
+
 ----
 Following codes are written in languages that I'm capable of using.
 
